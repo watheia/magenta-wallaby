@@ -1,6 +1,5 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Natural Words
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
@@ -33,6 +32,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: project
+subtitle: Language Server Protocol (LSP) implementation for Gherkin & JBehave grammars
 ---
 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.

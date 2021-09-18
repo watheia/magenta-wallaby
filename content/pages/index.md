@@ -5,25 +5,33 @@ sections:
   - section_id: hero
     type: section_hero
     title: Watheia Labs
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      ##### Watheia Labs, LLC is a creative agency offering software engineering
+      and digital design services in the Greater Northwest. We've successfully
+      built flagship products for 5 new startups or business units. Will yours
+      be the next?
     actions:
-      - label: Let's talk
+      - label: Contact sales
         url: /contact
         style: button
+      - label: Learn more
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Case Studies
-    subtitle: An optional subtitle of the section
+    title: Portfolio
+    subtitle: Take a deep dive into some of our best work
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: An optional subtitle of the section
+    subtitle: This is what we can offer you
     col_number: two
     is_numbered: true
     grid_items:
