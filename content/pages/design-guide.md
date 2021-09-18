@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Watheia Labs Style Guide
+      value: Watheia Labs Design Guide
       keyName: property
     - name: 'og:description'
       value: >-
