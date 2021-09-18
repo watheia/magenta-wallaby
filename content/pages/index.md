@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: Watheia Labs
     content: >
-      ##### Watheia Labs, LLC is a creative agency offering engineering and
-      digital design services in the Greater Northwest. We've successfully built
-      flagship products for 5 new startups or business units. Will yours be the
-      next?
+      ##### Watheia Labs, LLC is a creative agency offering software engineering
+      and digital design services in the Greater Northwest. We've successfully
+      built flagship products for 5 new startups or business units. Will yours
+      be the next?
     actions:
       - label: Contact sales
         url: /contact
