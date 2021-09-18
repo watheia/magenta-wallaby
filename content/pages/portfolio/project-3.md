@@ -1,6 +1,6 @@
 ---
 title: NuLabel Technologies
-subtitle: 'Internal '
+subtitle: Internal application
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
