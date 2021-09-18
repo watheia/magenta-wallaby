@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://magenta-wallaby-54383.netlify.app"
+    "domain": "https://magenta-wallaby-54383.netlify.app",
+    "favicon": "/images/favicon.ico"
 }
