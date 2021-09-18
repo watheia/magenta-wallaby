@@ -7,7 +7,7 @@ excerpt: >-
   Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu
   interdum placerat placerat arcu commodo lobortis adipiscing semper ornare
   pellentesque.
-date: '2017-03-26'
+date: "2017-03-26"
 thumb_image: images/10_thumb.jpg
 thumb_image_alt: Modern white table
 seo:
@@ -16,30 +16,30 @@ seo:
     Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac
     eu interdum placerat
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: How To Choose An Interior Designer
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
         ac eu interdum placerat
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/10.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: How To Choose An Interior Designer
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
         Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia
         ac eu interdum placerat
-    - name: 'twitter:image'
+    - name: "twitter:image"
       value: images/10.jpg
       relativeUrl: true
 layout: post
