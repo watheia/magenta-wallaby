@@ -6,11 +6,8 @@ sections:
     type: section_hero
     title: Watheia Labs
     content: >
-      Watheia Labs, LLC has been critical to the success of 5 startups or major
-      transformations. Will yours be the next?
-
-
-      [Learn More](/portfolio/)
+      Watheia Labs, LLC built the flagship product for 5 startups or new
+      business units. Will yours be the next?
     actions:
       - label: Contact sales
         url: /contact
