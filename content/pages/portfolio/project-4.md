@@ -1,7 +1,7 @@
 ---
 title: Vivid Learning Systems
 subtitle: Optional Project Subtitle
-date: '2019-02-26'
+date: '2019-03-26'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
