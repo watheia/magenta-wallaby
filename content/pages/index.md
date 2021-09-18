@@ -15,7 +15,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-      - label: Learn More
+      - label: Learn more
         url: '#'
         style: link
         icon: dribbble
