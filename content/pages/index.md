@@ -5,9 +5,12 @@ sections:
   - section_id: hero
     type: section_hero
     title: Watheia Labs
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Watheia Labs, LLC has been critical to the success of 5 startups or major
+      transformations. Will yours be the next?
+
+
+      [Learn More](/portfolio/)
     actions:
       - label: Let's talk
         url: /contact
