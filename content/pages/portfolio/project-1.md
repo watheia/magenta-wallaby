@@ -1,6 +1,5 @@
 ---
 title: Natural Words
-subtitle: Ec
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
