@@ -12,7 +12,7 @@ sections:
 
       [Learn More](/portfolio/)
     actions:
-      - label: Let's talk
+      - label: Contact sales
         url: /contact
         style: button
       - label: Learn more
